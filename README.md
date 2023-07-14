@@ -42,7 +42,7 @@ Locky Basic is developed entirely in C++ without any specific UI Design Framewor
 
 ## Contributions
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/Special-Niewbie/Locky-Terminal-64-bit/issues).
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/Special-Niewbie/Locky-Basic/issues).
 
 ## License
 
